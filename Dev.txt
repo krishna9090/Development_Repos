@@ -1,0 +1,8 @@
+>>>>>>>>>>head
+
+This change for test the conflicts...
+===============================
+>>>>>>>>>
+this is test for merge/conflicts
+
+===============================
